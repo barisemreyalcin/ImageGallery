@@ -1,0 +1,2 @@
+- An Image Gallery that shows random pictures in a frame.
+- Styled by CSS Flexbox.
